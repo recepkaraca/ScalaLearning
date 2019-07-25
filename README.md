@@ -1,7 +1,7 @@
 # ScalaLearning
 Programming examples to learn Scala.
 
-Study order (Sorting can be changed, it is my own learning order.)
+Study order (Sorting can be changed, it is my own learning order.) :
 - Basics
 - UnifiedTypes
 - Classes
