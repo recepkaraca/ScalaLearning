@@ -10,3 +10,10 @@ Study order (Sorting can be changed, it is my own learning order.) :
 - HighorderFunctions
 - NestedMethods
 - Currying
+- CaseClasses
+- PatternMatching
+- SingletonObjects
+- RegularExpressionPatterns
+- ExtractorObjects
+- ForComprehensions
+- GenericClasses
