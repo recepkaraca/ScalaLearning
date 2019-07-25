@@ -1,5 +1,7 @@
 package Basics
 
+// https://docs.scala-lang.org/tutorials/
+
 object VarsBlocksFuncsMethods {
   def main(args: Array[String]): Unit = {
     // Variables:
