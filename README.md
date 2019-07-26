@@ -17,3 +17,9 @@ Study order (Sorting can be changed, it is my own learning order.) :
 - ExtractorObjects
 - ForComprehensions
 - GenericClasses
+- Variances
+- Bounds (Incompleted, will be updated soon.)
+- InnerClasses
+- AbstractTypes
+- CompoundTypes
+- SelfType
